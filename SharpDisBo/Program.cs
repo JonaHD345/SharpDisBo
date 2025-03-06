@@ -51,4 +51,6 @@ Console.WriteLine("Discord Bot log:");
 DiscordBot discordBot = new DiscordBot(token);
 await discordBot.StartBot();
 
+// after key press, program will exit
 Console.ReadLine();
+await discordBot.StopBot();
