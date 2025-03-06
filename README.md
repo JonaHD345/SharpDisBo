@@ -13,5 +13,5 @@ Issues and pull requests are welcome!
 7. Then check the Discord active developer page ([Link](https://discord.com/developers/active-developer)) and wait until discord unlocks the badge for you (for me it took 24-48h hour)
 
 ## Contributing
-1. Clone git repo with ```git clone https://github.com/JonaHD345/SharpDisBo.git```
-2. Build the project in VisualStudio / VS Code / JetBrains Rider
+- Clone git repo with ```git clone https://github.com/JonaHD345/SharpDisBo.git```
+- Build the project in VisualStudio / VS Code / JetBrains Rider
