@@ -1,6 +1,6 @@
 # SharpDisBo
 
-Windows (other platforms are in planning) console program to get very easy the <img src="https://github.com/user-attachments/assets/f57a541b-78d9-4c95-b8e3-9c30d6b731a0" width="32px" height="32px"></img> (Active Developer) Badge from Discord. <br><br>
+Windows (other platforms are in planning) console program to get very easy the <img src="https://github.com/user-attachments/assets/f57a541b-78d9-4c95-b8e3-9c30d6b731a0" width="18px" height="18px"></img> (Active Developer) Badge from Discord. <br><br>
 Issues and pull requests are welcome!
 
 ## Getting Started
