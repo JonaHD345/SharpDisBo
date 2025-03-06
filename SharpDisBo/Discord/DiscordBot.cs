@@ -37,6 +37,8 @@ namespace SharpDisBo.Manager
 
     public async Task Client_Ready()
     {
+      await _client.SetActivityAsync(new Game("github.com/jonahd345", ActivityType.Watching));
+
       SlashCommandBuilder globalCommand = new SlashCommandBuilder();
       globalCommand.WithName("hello");
       globalCommand.WithDescription("This is the hello command");
