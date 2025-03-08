@@ -8,7 +8,7 @@ Issues and pull requests are welcome!
 2. Unzip the folder
 3. Start SharpDisBo.exe
 4. Enter your Discord Bot Token (a guide to create and invite a Discord application see this: Link (in progress...))
-5. Execute the /hello command
+5. Execute the ```/hello``` command
 6. You can now close the console program
 7. Then check the Discord active developer page ([Link](https://discord.com/developers/active-developer)) and wait until discord unlocks the badge for you (for me it took 24-48h hour)
 
